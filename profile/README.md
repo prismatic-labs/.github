@@ -6,8 +6,9 @@ The planetary sensing layer. From tokens to tonnes to tomatoes.
 
 ### Projects
 
-🌱 **[vetch](https://github.com/prismatic-labs/vetch)** — Energy and cost observability for LLM inference. Open source, Apache 2.0.
-🌾 **tare** — What the Hormuz crisis might add to your food bill. Live tracker of the hidden energy, fertilizer, and shipping costs in everyday food. Open data, open source.
+🌱 **[vetch](https://github.com/prismatic-labs/vetch)** - Energy and cost observability for LLM inference. Open source, Apache 2.0.
+
+🌾 **[tare](https://github.com/prismatic-labs/tare)** - What the Hormuz crisis might add to your food bill. Live tracker of the hidden energy, fertilizer, and shipping costs in everyday food. Open data, open source.
 
 
 ### Learn more
