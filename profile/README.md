@@ -2,6 +2,12 @@
 
 Making systemic complexity legible.
 
+### Why we build
+
+AI runs on the physical world: the minerals, energy, and water it consumes, and the invisible human "ghost work" that keeps it running. Almost none of that flows back, and nothing in the system even registers how lopsided the exchange has become. We don't think that's a law of nature, it's a design choice, and the good news about design choices is that they can be remade.
+
+What we're working toward is symbiotic AI: technology and the living planet structurally bound, each sustaining the other, with AI's dependence on the world wired in rather than ignored. The first step is the concrete, unglamorous one, and it's where everything we build begins: taking the hidden dependencies AI runs on, and the costs they carry, and making them visible, sourced, and something you can actually act on.
+
 ### Projects
 
 🌱 **[vetch](https://github.com/prismatic-labs/vetch)** - Inference waste control for production LLM systems. Detect stalled agents, RAG bloat, and runaway inference, then stop them automatically. Open source, Apache 2.0.
