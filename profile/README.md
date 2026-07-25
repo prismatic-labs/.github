@@ -16,9 +16,9 @@ What we're working toward is symbiotic AI: technology and the living planet stru
 
 🫖 **[cloud-kettle-index](https://github.com/prismatic-labs/cloud-kettle-index)** - Britain's data-centre electricity load, translated into kettle-boils per second.
 
-🏙️ **[ldn-compute](https://github.com/prismatic-labs/ldn-compute)** - The London Compute Ring. A public, sourced map of the physical footprint of AI and cloud data centres across Greater London and the M25 fringe: power, land, and water.
+🏙️ **[The London Compute Ring](https://github.com/prismatic-labs/ldn-compute)** - A public, sourced map of the physical footprint of AI and cloud data centres across Greater London and the M25 fringe: power, land, and water.
 
-🏭 **[yorkshire-compute-belt](https://github.com/prismatic-labs/yorkshire-compute-belt)** - The Yorkshire Compute Belt. A public, open-source map of the physical footprint of AI and cloud infrastructure across Yorkshire and the Humber.
+🏭 **[The Yorkshire Compute Belt](https://github.com/prismatic-labs/yorkshire-compute-belt)** - A public, open-source map of the physical footprint of AI and cloud infrastructure across Yorkshire and the Humber.
 
 🌿 **[tare](https://github.com/prismatic-labs/tare)** - Your food depends on the Strait of Hormuz. A live tracker of the crisis costs hidden in everyday food: energy, fertilizer, and shipping. Open data, open source.
 
